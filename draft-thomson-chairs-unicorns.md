@@ -27,16 +27,20 @@ author:
     fullname: "Martin Thomson"
     organization: Mozilla
     email: "mt@lowentropy.net"
+-
+    fullname: "Mike Bishop"
+    organization: IESG
+    email: mbishop@evequefou.be
+
+
 
 normative:
 
-informative:
-
-...
+	@@ -36,7 +62,7 @@ informative:
 
 --- abstract
 
-TODO Abstract
+The unicorn protocol details how information can be transmitted in patterns of hoofprints and sparkles.
 
 
 --- middle

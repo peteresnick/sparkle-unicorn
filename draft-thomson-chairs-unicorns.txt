@@ -3,12 +3,12 @@
 
 
 WG Working Group                                              Y. N. Here
-Internet-Draft                                    Your Organization Here
+Internet-Draft                                                   Mozilla
 Intended status: Informational                              23 July 2025
 Expires: 24 January 2026
 
 
-                           TODO - Your title
+                            Unicorn Protocol
                   draft-todo-yourname-protocol-latest
 
 Abstract
@@ -110,5 +110,5 @@ Acknowledgments
 Author's Address
 
    Your Name Here
-   Your Organization Here
+   Mozilla
    Email: your.email@example.com

@@ -32,8 +32,6 @@ author:
     organization: IESG
     email: mbishop@evequefou.be
 
-
-
  -
  	fullname: "Pete Resnick"
  	organization: Episteme

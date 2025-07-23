@@ -28,6 +28,11 @@ author:
     organization: Mozilla
     email: "mt@lowentropy.net"
 
+ -
+ 	fullname: "Pete Resnick"
+ 	organization: Episteme
+ 	email: "resnick@episteme.net"
+
 normative:
 
 informative:
